@@ -9,6 +9,7 @@
 	},
 	"dependencies": {
 		"@chakra-ui/core": "^1.0.0-rc.4",
+		"axios": "^0.20.0",
 		"@headlessui/react": "^0.2.0",
 		"axios": "^0.21.1",
 		"framer-motion": "^2.7.5",
